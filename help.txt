@@ -1,0 +1,9 @@
+alien coursework help sites
+
+http://stackoverflow.com/questions/8657991/can-you-run-a-vb-application-in-full-screen
+https://www.youtube.com/watch?v=VaeXMjlm7PM
+https://www.youtube.com/watch?v=AGG_LnCQFEA
+https://msdn.microsoft.com/en-us/library/139z2azd%28v=vs.90%29.aspx
+http://www.vbforums.com/showthread.php?670864-Craeting-a-delay-in-VB-2010
+http://forums.codeguru.com/showthread.php?411062-How-to-lock-or-disable-keyboard-input-using-VB.net
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/03281eb7-f37b-4f88-b634-1f139b12f447/delay-or-pause-my-vb-code?forum=vbgeneral
